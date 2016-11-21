@@ -2,7 +2,8 @@
 
 ## Predicting the acceptance of H1B proposal at the LCA
 
-#Contibutors:
+# Contibutors:
+## Vishwajeet Shelar
 ## Aaron D'souza
 ## Anastasiya Shegay
 ## Priyanshi Singh
